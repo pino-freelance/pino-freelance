@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Pino 🐰
 
-<!--
-**pino-freelance/pino-freelance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+26歳女性フロントエンドエンジニア  
+LP制作（デザイン + コーディング）が得意です
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Portfolio
+
+- **[Portfolio Site](https://pino-freelance.github.io/portfolio/)**  
+  自己紹介・実績・スキル
+
+---
+
+## 🛠 Skills
+
+**Frontend Development**
+- HTML / CSS
+- JavaScript
+- レスポンシブデザイン
+
+**Backend**
+- PHP
+
+**Design & Prototyping**
+- Figma（ワイヤーフレーム・デザインカンプ）
+- Canva（女性向けデザイン）
+- Studio（ノーコードWebサイト制作）
+
+**Tools**
+- Git / GitHub
+- 女性向けコンテンツデザイン
+- ユーザー心理を踏まえたUX設計
+
+---
+
+## 📊 Achievements
+
+- **YouTube Channel**：登録者 0人 → 6万人（2年以上）
+- **Crowdworks**：⭐5評価（100%達成）
+- **Client Satisfaction**：100%
+
+---
+
+## 💼 Work Environment
+
+- フルリモート対応のみ
+- 一人暮らしの自宅で集中力を確保
+- 昼夜・土日問わず対応可能
+- メッセージは1日以内に返信
+
+---
+
+## 📧 Contact
+
+- **Email**：freelancepino@gmail.com
+- **Portfolio**：https://pino-freelance.github.io/portfolio/
+
